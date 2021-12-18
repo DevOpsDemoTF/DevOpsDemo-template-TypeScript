@@ -1,0 +1,16 @@
+Dockerfile
+.gitlab-ci.yml
+.gitlab/
+api_tests/
+.dockerignore
+.git/
+.gitignore
+
+# from .gitignore
+.env
+.vscode/
+cov/
+coverage/
+lcov/
+target/
+test-results.xml
